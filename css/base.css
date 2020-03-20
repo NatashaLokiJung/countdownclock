@@ -1,0 +1,17 @@
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+body{
+    background: rgb(152, 171, 179);
+}
+
+.wrapper{
+    background: lightblue;
+    max-width: 50em;
+    margin: 2em auto;
+}
+
