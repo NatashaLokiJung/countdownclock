@@ -10,6 +10,8 @@ body{
 }
 
 .wrapper{
+    display: flex;
+    flex-direction: column;
     background: lightblue;
     max-width: 50em;
     margin: 2em auto;

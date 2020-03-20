@@ -1,6 +1,7 @@
 .timer{
     display: flex;
     justify-content: space-between;
+    height: 10em;
 }
 
 .timer__controls{
@@ -16,7 +17,13 @@
 }
 
 .myForm{
-    padding: 1em 0;
+    justify-content: center;
+    padding: 1.5em 0;
+}
+
+.myForm__text{
+    color:  rgb(76, 144, 175);
+    padding-top: 0.4em;
 }
 
 .display{
