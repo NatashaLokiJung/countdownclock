@@ -1,0 +1,41 @@
+.timer{
+    display: flex;
+    justify-content: space-between;
+    height: 10em;
+}
+
+.timer__controls{
+    padding: 2em;
+}
+
+.timer__button{
+    background-color: rgb(76, 144, 175);
+    color: white;
+    text-align: center;
+    cursor: pointer;
+    padding: 0.8em;
+}
+
+.myForm{
+    justify-content: center;
+    padding: 1.5em 0;
+}
+
+.myForm__text{
+    color:  rgb(76, 144, 175);
+    padding-top: 0.4em;
+}
+
+.display{
+    padding: 2em;
+    color:  rgb(76, 144, 175);
+}
+
+.display__time-left{
+    font-size: 2.7em;
+}
+
+.display__end-time{
+    padding: 1em 0;
+    font-size: 1.3em;
+}
